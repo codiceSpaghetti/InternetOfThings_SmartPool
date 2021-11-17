@@ -10,7 +10,7 @@ It also offers the ability to manually apply a certain degree of parameter chang
 set the desired water temperature, at run time.
 
 ## System scheme and structure
-<img src='imgs/system-scheme.png'>
+<img src='system-scheme.png'>
 
 ## Deployment
 ### MQTT Network
