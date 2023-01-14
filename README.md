@@ -1,5 +1,4 @@
-# InternetOfThings_SmartPool
-Project for the <i>'Internet of Things'</i> course. Please, check the [Documentation](Documentation.pdf) for a complete view. 
+# IoT for a SmartPool
 
 ## Introduction
 Smart Pool is an application for the automatic and intelligent management of swimming pools remotely through the use of sensors and actuators.
@@ -8,6 +7,9 @@ For facilities with hydromassage services, it allows the automated management of
 water inlets.
 It also offers the ability to manually apply a certain degree of parameter changes, eg. to
 set the desired water temperature, at run time.
+
+Please, check the [Documentation](Documentation.pdf) for a complete view. 
+
 
 ## System scheme and structure
 <img src='system-scheme.png'>
